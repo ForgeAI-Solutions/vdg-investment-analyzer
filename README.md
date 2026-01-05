@@ -21,7 +21,7 @@ decision consistency.
 - Replit (deployment)
 
 ## Live Demo
-https://replit.com/@millerkamau19/Investment-Analyzer
+https://vdg-investment-analyzer--millerkamau19.replit.app/
 
 ## Organization
 ForgeAI Solutions
